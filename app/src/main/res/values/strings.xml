@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetCompose</string>
+    <string name="show_less">show Less</string>
+    <string name="show_more">show More</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="onBoardScreenTittle">We help you find your dream job more easily</string>
+    <string name="onBoardScreenDesc">Lorem ipsum dolor sit amet consectetur. Amet sit at fermentum id vitae lacus id natoque ante. Placerat urna risus quisque urna suspendisse tellus.</string>
+    <string name="title_activity_sign_in_compose">SignInCompose</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362777038675",
+    "project_id": "jetcompose-c280a",
+    "storage_bucket": "jetcompose-c280a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362777038675:android:f6b04dfef31334ff84dba6",
+        "android_client_info": {
+          "package_name": "com.example.jetcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC85LSO5Zd2DwTCfaLDki1J9E5E8DYVKQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
